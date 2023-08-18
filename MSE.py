@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # load the input images
-img1 = cv2.imread('pho_1.png')
-img2 = cv2.imread('voy_1.png')
+img1 = cv2.imread('img1.png')
+img2 = cv2.imread('img2.png')
 
 # convert the images to grayscale
 img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
