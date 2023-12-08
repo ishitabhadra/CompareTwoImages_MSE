@@ -1,3 +1,3 @@
 # CompareTwoImages_MSE
 
-Compare how similar two images are using the Mean Square Value of the pixel values of the images
+Compare the similarity of two images based on the Mean Square Error value of the images's pixels.
